@@ -1,0 +1,17 @@
+{
+    "name": "japancellarjp/markdown",
+    "description": "php Markdown Subset",
+    "authors": [
+        {
+            "name": "https://github.com/japancellarjp"
+        }
+    ],
+    "require": {
+        "cebe/markdown": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "japancellarjp\\markdown\\": ""
+        }
+    }
+}
